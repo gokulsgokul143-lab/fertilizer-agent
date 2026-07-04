@@ -1,0 +1,6 @@
+{
+  "name": "Plant Fertilizer Recommendation Agent",
+  "description": "An agentic AI assistant designed to analyze plant specs, soil conditions, and growth stages to provide custom NPK fertilizer recommendations and answer agricultural questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
